@@ -1,0 +1,13 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.deps.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\bin\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.AssemblyInfo.cs
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\EvenOdd\obj\Debug\netcoreapp3.1\EvenOdd.genruntimeconfig.cache
